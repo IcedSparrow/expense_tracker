@@ -45,7 +45,7 @@ Sklonuj repozytorium:
 
 bash
 Skopiuj kod
-git clone https://github.com/twoja_nazwa_uzytkownika/expense_tracker.git
+git clone https://github.com/IcedSparrow/expense_tracker.git
 Przejdź do katalogu projektu:
 
 bash
@@ -76,7 +76,6 @@ Imię i Nazwisko: Dawid Wróbel
 E-mail: dawidwrobel40@gmail.com
 GitHub: IcedSparrow
 
-Skopiuj kod
 
 ### Uwagi:
 - Zaktualizuj wszystkie dane kontaktowe w sekcji „Kontakt”, aby były zgodne z Twoimi danymi.
